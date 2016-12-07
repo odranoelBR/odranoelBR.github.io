@@ -437,6 +437,7 @@ body {
 }
 
 p {
+  font-size: 17px;
   margin-top: 0;
 }
 
@@ -871,6 +872,18 @@ footer a:hover {
     margin-left: 0;
     content: none;
   }
+}
+
+h1 a{
+  color: #fff;
+}
+h1 a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
+
+h3 a:hover{
+  text-decoration: underline;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
